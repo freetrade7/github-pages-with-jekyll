@@ -1,3 +1,7 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+What language am I programming in???
+Where is CSS file?
+HTML accepted? <BOLD>
+  <?>What is this<?>
+  
